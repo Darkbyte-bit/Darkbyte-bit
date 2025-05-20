@@ -19,8 +19,8 @@
 - 🧪 Git & GitHub
 
 ## 📫 How to Reach Me
-- ✉️ Email: your@email.com
-- 💬 WhatsApp: [+255 XXX XXX XXX](https://wa.me/255XXXXXXXXX)
+- ✉️ Email: officialstoneboy@gmail.com
+- 💬 WhatsApp: [+255 694 689 795](https://wa.me/qr/EDWZOOXW7P6PD1 )
 - 🔗 Portfolio: [https://Darkbyte-bit.github.io/portfolio](https://Darkbyte-bit.github.io/portfolio)
 
 ---
