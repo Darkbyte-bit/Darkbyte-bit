@@ -1,9 +1,28 @@
- Hi, I’m @Darkbyte-bit
- I’m interested in java and Python 
- I’m currently learning Java and Python 
- I’m looking to collaborate on Java and Python 
+# 👋 Hi, I'm Jimmy (aka @Darkbyte-bit)
 
-<!---
-Darkbyte-bit/Darkbyte-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 I’m a passionate self-taught developer from Tanzania.
+
+## 💻 About Me
+- 🔭 I’m currently working on Java-based desktop and web projects
+- 🌱 I’m actively learning **Java**, **Python**, and full-stack web development
+- 🤝 I’m looking to collaborate on:
+  - Java projects
+  - Python automation or data tools
+  - Web development (Java + MySQL + HTML/CSS/JS)
+- 💡 I’m also interested in **ethical hacking** and **Linux tools** (like Nmap)
+
+## 🧠 Skills
+- ⚙️ Java (Core, OOP, JavaFX)
+- 🐍 Python (Beginner to Intermediate)
+- 🌐 HTML, CSS, JavaScript
+- 🗃️ MySQL & basic database design
+- 🧪 Git & GitHub
+
+## 📫 How to Reach Me
+- ✉️ Email: your@email.com
+- 💬 WhatsApp: [+255 XXX XXX XXX](https://wa.me/255XXXXXXXXX)
+- 🔗 Portfolio: [https://Darkbyte-bit.github.io/portfolio](https://Darkbyte-bit.github.io/portfolio)
+
+---
+
+_✨ Let's build, learn, and grow together!_
