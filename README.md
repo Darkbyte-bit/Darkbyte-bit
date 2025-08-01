@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel (aka @Darkbyte-bit)
+# 👋 Hi, I'm Emmanuel (aka @Darkbyte)
 
 🎯 I’m a passionate self-taught developer from Tanzania.
 
